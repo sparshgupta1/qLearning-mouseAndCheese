@@ -3,10 +3,10 @@
 # -----World Setting------
 graphic_file = 'resources/world.txt'
 grid_width = 50   # pixels of a single grid
-wall_color = '#D3CAB4'
+wall_color = '#006400'
 cat_color = '#000000'
-mouse_color = '#06B1C8'
-cheese_color = '#DAA72A'
+mouse_color = '#9999FF'
+cheese_color = '#FFFF00'
 speed = 10   # animal speed is 10m/s, the max value supposed to be less than 1000.
 
 
